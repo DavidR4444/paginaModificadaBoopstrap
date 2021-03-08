@@ -1,0 +1,32 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.menu{
+    background-color: rgb(0, 132, 255);
+}
+.listaMenu {
+display: flex ;
+justify-content: flex-end;
+}
+.carouselStyle {
+height: 750px;
+}
+
+.rowStyle {
+  
+    padding: 50px 0px 0px 100px;
+    }   
+
+.centrar{
+        
+        text-align:center;
+        text-align: justify;
+        }
+        .colorRe{
+
+            color: hotpink;
+            font-size: 25px;
+        } 
+
